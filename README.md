@@ -7,7 +7,7 @@ this serves only one purpose - to kill your code - nothing else
 - [] C
 - [] C++
 - [x] C# Windows Forms
-- [x] C# Console
+- [] C# Console
 - [] Python
 - [] Javascript
 - [] Java
